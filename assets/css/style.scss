@@ -1,0 +1,18 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Esconde o botão padrão do GitHub no cabeçalho */
+.page-header .btn {
+    display: none !important;
+}
+
+/* Deixa os títulos dos laboratórios (h4) em negrito */
+h4 {
+    font-weight: bold !important;
+}
+
+/* Esconde o rodapé padrão do GitHub */
+.site-footer {
+    display: none !important;
+}

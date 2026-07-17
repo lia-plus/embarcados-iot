@@ -2,7 +2,7 @@ O **LIA+ Sistemas Embarcados e IoT** é a frente de pesquisa da rede LIA+ dedica
 
 ## Coordenação
 
-**Luciano Silveira**
+**Luciano Silveira**  
 *Cientista de Alimentos, Mestre em Física do Ambiente Agrícola e Doutor em Engenharia de Sistemas Agrícolas pela ESALQ/USP — tendo cursado as disciplinas do doutorado no ICMC e na Poli/USP com foco em Ciência da Computação. Em fase final da graduação em Engenharia da Computação pela Univesp, foca na aplicação de Ciência de Dados, integração de hardware e engenharia de software embarcado para a otimização de sistemas agroalimentares e a inserção da Inteligência Artificial no mundo físico.*
 
 ---

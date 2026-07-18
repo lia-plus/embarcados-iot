@@ -18,8 +18,8 @@ Acoplamento de espectroscopia portátil (NIR) e sensores analíticos a sistemas 
 ### ⚙️ Automação e Dispositivos Inteligentes
 Engenharia de hardware ponta a ponta, adotando a agilidade do *Lean Startup* (MVP): prototipagem rápida de provas de conceito utilizando placas de desenvolvimento (como ESP32 e ARM) e, quando necessário, escalabilidade por meio do design de placas de circuito impresso (PCBs) customizadas e independentes para robustez operacional.
 
-### 📱 Desenvolvimento Full-Stack e Soluções IoT
-Prototipagem de aplicações web, painéis de *analytics* e interfaces orientadas à usabilidade, com foco em traduzir os dados capturados pelos dispositivos físicos em painéis interativos e alertas em tempo real para o produtor, para a pesquisa e para a indústria.
+### 📡 Conectividade e Fluxo de Dados
+Exploração das melhores formas de extrair e comunicar os dados gerados na borda. O objetivo é criar a ponte estrutural entre o hardware (sensores) e o destino final da informação, garantindo que os sinais capturados sejam transmitidos de forma eficiente para apoiar a pesquisa, a indústria ou a tomada de decisão.
 
 ---
 <div align="center" style="font-size: 0.9em; color: #666; margin-top: 40px;">

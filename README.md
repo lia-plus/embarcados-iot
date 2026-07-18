@@ -1,12 +1,12 @@
-# LIA+ Sistemas Embarcados e IoT
+# LIA+ Engenharia de Sistemas Inteligentes
 
-Site institucional da frente de pesquisa LIA+ Sistemas Embarcados e IoT, parte da rede LIA+ (ESALQ/USP), focada em Inteligência Artificial na borda (Edge AI), Internet das Coisas (IoT) e Sensoriamento aplicados aos setores produtivo e agroambiental.
+Site institucional da plataforma transversal LIA+ Engenharia de Sistemas Inteligentes, parte da rede LIA+ (ESALQ/USP e CENA/USP). Esta frente atua como o motor tecnológico da rede, focada em Inteligência Artificial na borda (*Edge AI* e *TinyML*), Internet das Coisas (*IoT*), Sensoriamento e Arquitetura de Software.
 
-🌐 **Site:** [lia-plus.github.io/embarcados-iot](https://lia-plus.github.io/embarcados-iot)
+🌐 **Site:** [lia-plus.github.io/sistemas-inteligentes](https://lia-plus.github.io/sistemas-inteligentes)
 
 ## Sobre este repositório
 
-Este repositório contém o código-fonte do sub-site do LIA+ Sistemas Embarcados e IoT, construído com Jekyll e tema Cayman via GitHub Pages.
+Este repositório contém o código-fonte do sub-site do LIA+ Engenharia de Sistemas Inteligentes, construído com Jekyll e tema Cayman via GitHub Pages.
 
 ## Estrutura
 

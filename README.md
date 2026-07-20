@@ -29,3 +29,4 @@ Commits seguem a convenção:
 - `config` — _config.yml e configurações do Jekyll
 - `docs` — este README
 - `chore` — manutenção geral
+

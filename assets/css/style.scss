@@ -19,11 +19,9 @@ header.page-header {
   flex-direction: column !important;
   justify-content: center !important;
   align-items: flex-start !important;
-  background-color: rgba(0,0,0,.35);
   background-image: url('{{ "/assets/banner_engenharia_mobile_50kb.webp" | relative_url }}');
   background-size: cover;
   background-position: center 45% !important;
-  background-blend-mode: multiply;
 }
 
 @media (min-width: 768px) {
@@ -44,13 +42,7 @@ header.page-header {
   }
 }
 
-header.page-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: 0;
-  background: linear-gradient(90deg, rgba(0,0,0,.45) 0%, rgba(0,0,0,.20) 40%, rgba(0,0,0,.12) 100%);
-}
+header.page-header::before { display: none !important; }
 header.page-header > * { position: relative; z-index: 1; }
 
 header.page-header .project-name {
